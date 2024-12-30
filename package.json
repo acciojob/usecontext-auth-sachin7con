@@ -47,7 +47,11 @@
     "html-webpack-plugin": "^4.5.0",
     "jest": "^26.4.2",
     "react-test-renderer": "^16.13.1",
+<<<<<<< HEAD
     "webpack": "^4.47.0",
+=======
+    "webpack": "^4.44.2",
+>>>>>>> 408dc1d8d4793cd19b8731956b0b52a826708fe6
     "webpack-dev-server": "^3.11.3",
     "xml-js": "^1.6.11"
   }
